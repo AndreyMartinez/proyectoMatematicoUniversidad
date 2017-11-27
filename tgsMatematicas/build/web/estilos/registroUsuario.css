@@ -1,0 +1,35 @@
+
+    
+div#conjuntoRegistro{
+  height: 520px;
+top: 65px;
+    background-color: black;
+    width: 606px;
+    left: 399px;
+    
+    
+}
+button#botonRegresar{
+       left: 240px;
+    border-radius: 10px;
+    border: none;
+    position: relative;
+    top: 34px;
+    background-color: #cddc39;
+    color: white;
+    
+}
+button#botonRegistra{
+    left: 250px;
+    border-radius: 10px;
+    border: none;
+    position: relative;
+    top: 34px;
+    background-color: #cddc39;
+    color: white;
+}
+img#imagenRegistro{
+  position: absolute;
+    height: 100%;
+    width: 100%;
+}

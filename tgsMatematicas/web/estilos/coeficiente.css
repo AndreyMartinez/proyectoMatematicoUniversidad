@@ -1,0 +1,189 @@
+
+a#ingresar{
+    position: relative;
+   
+    left: 676px;
+}
+div#curso{
+    position: relative;
+   bottom: 300px;
+    width: 811px;
+    right: 192px;
+    background-color:#eaeaea;
+    border-radius: 190px 190px 0px 0px;
+}
+div#curso1{
+    position: relative;
+    top:50px;
+    height: 350px;
+    width: 311px;
+    left: 1000px;
+    background-color:#eaeaea;
+    border-radius: 70px 70px 0px 0px;
+}
+
+h1#saludo{
+    position: relative;
+    top: 10px;
+    left: 200px;
+width: 950px;
+color: #bd7e00;
+font-family: 'Indie Flower', cursive;
+}
+h1#intro{
+    position: relative;
+    left:45px;
+    top: 30px;
+    font-family: 'Open Sans';
+    color: #bd7e00;
+    font-family: 'Indie Flower', cursive;
+}
+iframe#video{
+    position: relative;
+    top: 25px;
+    left: 37px;
+}
+
+div#formularioDePreguntas{
+    position: relative;
+    top: 70px;
+}
+
+
+div#nivel1{
+    position: relative;
+    top:24px;
+    height: 125px;
+  width: 149px;
+border: gray 1px solid;
+border-radius: 70px;
+background-color: white;
+}
+
+button#nivel1{
+    position: relative;
+    top: 50px;
+    left: 11px;
+}
+
+img#nivel1{
+position: relative;
+left: 5px;
+top: 15px;
+    width: 105px;
+
+}
+
+div#nivel2{
+    background-color: white;
+    position: relative;
+    top:114px;
+    height: 125px;
+    right: 176px;
+  width: 149px;
+border: gray 1px solid;
+border-radius: 70px;
+}
+button#nivel2{
+    position: relative;
+    top: 48px;
+    left: 5px;
+}
+img#nivel2{
+    position: relative;
+    left: 8px;
+    top: 15px;
+    width: 95px;
+}
+div#nive2{
+    background-color: white;
+    position: relative;
+     bottom: 10px;
+    height: 125px;
+    left: 176px;
+  width: 149px;
+border: gray 1px solid;
+border-radius: 85px;
+}
+button#nive2{
+    position: relative;
+    top: 44px;
+    left: 10px;
+}
+img#nive2{
+    left: 15px;
+   position: relative;
+   top: 15px;
+   width:   85px;
+
+}
+div#nivel3{
+    background-color: white;
+    position: relative;
+    top:114px;
+    height: 125px;
+    right: 306px;
+  width: 149px;
+border: gray 1px solid;
+border-radius: 70px;
+}
+button#nivel3{
+    position: relative;
+    top: 48px;
+    left: 5px;
+}
+img#nivel3{
+    position: relative;
+    left: 8px;
+    top: 15px;
+    width: 95px;
+    height: 87px;   
+}
+
+div#nive3{
+    background-color: white;
+    position: relative;
+     bottom: 10px;
+    height: 125px;
+    left: 16px;
+  width: 149px;
+border: gray 1px solid;
+border-radius: 85px;
+}
+button#nive3{
+    position: relative;
+    top: 44px;
+    left: 10px;
+}
+img#nive3{
+    left: 15px;
+   position: relative;
+   top: 15px;
+   width:   85px;
+   height: 90px;
+
+}
+div#niv3{
+    background-color: white;
+    position: relative;
+     bottom: 135px;
+    height: 125px;
+    left: 296px;
+  width: 149px;
+border: gray 1px solid;
+border-radius: 85px;
+}
+button#niv3{
+    position: relative;
+    top: 44px;
+    left: 10px;
+}
+img#niv3{
+    left: 15px;
+   position: relative;
+   top: 15px;
+   width:   85px;
+height: 90px;
+}
+
+

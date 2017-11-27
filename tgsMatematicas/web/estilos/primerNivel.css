@@ -1,0 +1,52 @@
+img#myImage
+{
+    position: relative;
+    left: 1200px;
+    top: 10px;
+}
+img#myImages
+{
+    position: relative;
+    left: 1200px;
+    top: 10px;
+}
+img#myImagess
+{
+    position: relative;
+    left: 1200px;
+    top: 10px;
+}
+form#preguntauno{
+    position: relative;
+    width: 250px;
+    left:900px;
+    bottom: 179px;
+}
+h1#mensaje{
+    width: 700px;
+    position: relative;
+    left: 350px;
+   color: tomato;
+}
+h4#txtsuma
+{
+    width: 200px;
+    position: relative;
+    left: 300px;
+    bottom: 120px;
+}
+h4#bombillo{
+    font-family: cursive;
+    
+}
+img#signoresta{
+    position: relative;
+    right: 140px;
+}
+a#terminar{
+    position: relative;
+bottom: 80px;
+left: 1000px;
+font-size: 30px;
+background-color: greenyellow;
+}
